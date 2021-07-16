@@ -1,4 +1,4 @@
-#M3SC Coursework 3 : Numerical Differentiation
+# M3SC Coursework 3 : Numerical Differentiation
 
 Project 3: ‘Numerical Differentiation’ completed for ‘Scientific Computing’. All code has been written in Python.
 
